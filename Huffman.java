@@ -22,6 +22,8 @@ public class Huffman {
             weights[data[i]]++;
         }
         int used = 0;
+
+
     }
 
 }
