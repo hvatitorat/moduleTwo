@@ -1,4 +1,4 @@
 package com.alevel.moduleTwo;
 
-public class Main {
+public class Huffman {
 }
